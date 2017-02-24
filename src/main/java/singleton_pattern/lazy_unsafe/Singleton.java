@@ -1,4 +1,4 @@
-package java.singleton_pattern.lazy_unsafe;
+package singleton_pattern.lazy_unsafe;
 
 /**
  * Created by wubingyu on 2017/2/23.

@@ -1,4 +1,4 @@
-package java.singleton_pattern.laz_safe;
+package singleton_pattern.laz_safe;
 
 /**
  * Created by wubingyu on 2017/2/23.

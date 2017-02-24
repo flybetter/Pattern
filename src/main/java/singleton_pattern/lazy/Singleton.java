@@ -1,4 +1,4 @@
-package java.singleton_pattern.lazy;
+package singleton_pattern.lazy;
 
 /**
  * Created by wubingyu on 2017/2/23.
