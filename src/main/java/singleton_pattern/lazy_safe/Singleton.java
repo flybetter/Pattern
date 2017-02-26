@@ -1,4 +1,4 @@
-package singleton_pattern.laz_safe;
+package singleton_pattern.lazy_safe;
 
 /**
  * Created by wubingyu on 2017/2/23.

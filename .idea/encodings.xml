@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/abstract_factory_pattern/detail.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/factory_pattern/detail.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/singleton_pattern/detail.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/singleton_pattern/lazy_unsafe/Singleton.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
